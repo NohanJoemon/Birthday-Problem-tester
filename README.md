@@ -8,3 +8,7 @@ This program can test the Birthday problem, by a series of experiments, on rando
 
 ## Code:
 [This notebook](birthday-problem-tester.ipynb) contains the code for testing birthday problem
+
+## Result obtained:
+![image](https://user-images.githubusercontent.com/62956111/129144550-c776168e-3221-410f-9401-9d66795ce8b8.png)
+
